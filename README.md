@@ -59,5 +59,16 @@ pytest
 
 ### 소프트웨어 요구사항 분석
 
+### TDD
+### 단위 테스트
+- pytest
+- code metric
+- lizard
+- cpd
+- flask8
 
 ## 아키텍처 설계
+## 개발
+### 코딩규칙
+### branch 전략
+### ...
